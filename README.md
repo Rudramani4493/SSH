@@ -1,6 +1,6 @@
 # SSH
 
-## add-local-user
+## localusers/add-local-user
 
 Imagine that you're working as a Linux System Administrator for a fast growing company.  The latest company initiative requires you to build and deploy dozens of servers.
 You're falling behind schedule and are going to miss your deadline for these new server deployments because you are constantly being interrupted by the help desk calling
